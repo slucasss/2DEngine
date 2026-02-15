@@ -42,11 +42,15 @@ Tiny Mario game
 1. Clone the repository:
    git clone https://github.com/slucasss/2DEngine.git
 
-2. Get the .sln for visual studio
+3. Get the .sln for visual studio
 ```bash
   .\SolutionGenerator.exe -make ./
 ```
 
-3.Open it in visual studio
+3. Open it in visual studio
 
-4. Run
+4. Compile
+
+5. Copy/paste the dlls in Debug file
+
+6. Run
