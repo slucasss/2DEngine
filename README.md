@@ -9,8 +9,8 @@ A 2D engine developed in five days, based on a homemade 2D library that encapsul
 
 ## Features 
 - Can display sprites, animations, circles and rectangles
-- Manages collision between entities
-- Realistic physics ( Gravity and bouncing)
+- Collision between entities (with different colliders ; rectangle x circle)
+- Realistic physics (gravity and bouncing)
 - Functionnal buttons, sounds mixers
 
 
