@@ -13,6 +13,14 @@ A 2D engine developed in five days, based on a homemade 2D library that encapsul
 - Realistic physics (gravity and bouncing)
 - Functionnal buttons, sounds mixers
 
-
+## Shwocase
+- shows
+   - buttons
+   - display
+   - gravity on earth and moon, with different objects
+   - a little mario game
+- N -> next slide (when there's no button)
+- D -> activate gravity (in the second slide)
+  
 
 ## Screenshots
