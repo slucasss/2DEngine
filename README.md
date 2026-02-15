@@ -40,10 +40,13 @@ Tiny Mario game
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/yourrepo.git
+   git clone https://github.com/slucasss/2DEngine.git
 
-2. Compile with g++:
-   g++ main.cpp -o rpg
+2. Get the .sln for visual studio
+```bash
+  .\SolutionGenerator.exe -make ./
+```
 
-3. Run:
-   rpg.exe
+3.Open it in visual studio
+
+4. Run
