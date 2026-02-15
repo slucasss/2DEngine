@@ -8,19 +8,18 @@ A 2D engine developed in five days, based on a homemade 2D library that encapsul
 
 
 ## Features 
-- Can display sprites, animations, circles and rectangles
+- Display sprites, animations, circles and rectangles
 - Collision between entities (with different colliders ; rectangle x circle)
 - Realistic physics (gravity and bouncing)
 - Functionnal buttons, sounds mixers
 
 ## Showcase
-- shows
-   - buttons
-   - display
-   - gravity on earth and moon, with different objects
-   - a little mario game
-- N -> next slide (when there's no button)
-- D -> activate gravity (in the second slide)
+   - Buttons
+   - Display
+   - Gravity on earth and moon, with different objects
+   - A short mario game
+- N -> Next slide (when there's no button)
+- D -> Activate gravity (in the second slide)
   
 
 ## Screenshots
@@ -33,7 +32,7 @@ Moon gravity with a bowling ball
 
 ![image info](src/Assets/MoonShowcase.gif)
 
-Tiny Mario game
+Short Mario game
 
 ![image info](src/Assets/MarioShowcase.gif)
 
