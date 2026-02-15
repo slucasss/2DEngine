@@ -13,7 +13,7 @@ A 2D engine developed in five days, based on a homemade 2D library that encapsul
 - Realistic physics (gravity and bouncing)
 - Functionnal buttons, sounds mixers
 
-## Shwocase
+## Showcase
 - shows
    - buttons
    - display
@@ -30,9 +30,20 @@ Display
 ![image info](src/Assets/1.png)
 
 Moon gravity with a bowling ball
+
 ![image info](src/Assets/MoonShowcase.gif)
 
 Tiny Mario game
+
 ![image info](src/Assets/MarioShowcase.gif)
 
+## Installation
 
+1. Clone the repository:
+   git clone https://github.com/yourusername/yourrepo.git
+
+2. Compile with g++:
+   g++ main.cpp -o rpg
+
+3. Run:
+   rpg.exe
